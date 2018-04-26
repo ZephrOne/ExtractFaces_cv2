@@ -6,8 +6,8 @@
 #include <list>
 #include <thread>
 
-#define FRAME_PRE_SENCOND 10 //隔多少帧获取一次frame
-#define ACTIVE_CAM false //决定使用视频还是摄像头
+#define FRAME_PRE_SENCOND 1 //隔多少帧获取一次frame
+#define ACTIVE_CAM true //决定使用视频还是摄像头
 #define DRAW true //显示人脸检测框
 #define VIDEO_PATH "/Users/Bevis/Desktop/Dev/C++ Project/ExtractFaces_cv2/video/video.mp4" //视频文件路径
 #define IMAGE_PATH "/Users/Bevis/Desktop/1/" //图片文件夹路径
