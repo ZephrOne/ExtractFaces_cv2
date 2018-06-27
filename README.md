@@ -3,4 +3,4 @@
 
 ## 环境需求
 opencv3.4以上  
-macOS high Sierra
+macOS High Sierra
